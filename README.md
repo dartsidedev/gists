@@ -1,4 +1,4 @@
-# gists
+# `gists`
 
 This repository is a collection of Flutter and Dart recipes in GitHub Gists that can be also immediately executed and tested in DartPad. I find that it's a great way to learn, understand and discover Flutter's features. For all gists, I give a short introduction with links to relevant articles or the documentation.
 
@@ -14,6 +14,36 @@ A [*tweet takes only a click*](https://twitter.com/intent/tweet?via=vincevargade
   * Twitter [`@vincevargadev` 💙](https://twitter.com/intent/follow?screen_name=vincevargadev) 
   * GitHub [`@vincevargadev` 🤓](https://github.com/vincevargadev)
 * [Check out my Flutter 101 Podcast 🎧](https://flutter101.dev)
+
+## ????
+
+If you open the gists on DartPad, you can run the examples immediately without having to first install Flutter on your machine. All you need is a modern web browser, and you'll be able to see the different code examples run in real time. You can also make edits and observe how the program changes its behavior based on your edits.
+
+You can open also open the gists on GitHub where you can fork the gist. After forking, the gist is yours and you'll be able to edit it or just keep it as a reference.
+
+All examples are without any external dependencies or packages, and they should work well on all platforms.
+
+You can run the examples on your mobile phones if you have Flutter installed, just copy the code into your main.dart file after you created a Flutter project with `flutter create .`
+
+Unfortunately, DartPad doesn't work great on mobiles. The layouts will look the best on desktop in medium-sized windows.
+
+The gist hashes are used in this `README` so that we can refer back to the repository from the gists.
+
+
+## Gists
+
+### `SnackBar`
+
+#### `5e2a8558d496fecd518b7846ba5995b7`
+
+##### Snack bar with different layouts
+
+Discover how the snack bar behaves with long text content and a long snack bar action.
+
+* [Gist](https://gist.github.com/vincevargadev/5e2a8558d496fecd518b7846ba5995b7)
+* [DartPad](https://nullsafety.dartpad.dev/5e2a8558d496fecd518b7846ba5995b7)
+
+
 
 ## Ideas
 
