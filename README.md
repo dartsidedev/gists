@@ -10,10 +10,10 @@ A [*tweet takes only a click*](https://twitter.com/intent/tweet?via=vincevargade
 
 * **[Tweet about it 🐦](https://twitter.com/intent/tweet?via=vincevargadev&hashtags=Flutter,Dart,LearnFlutter,DartPad&text=Awesome%20repository%20full%20of%20valuable%20Flutter%20and%20Dart%20gists.%20Works%20with%20DartPad.%20All%20snippets%20are%20null-safe!%0D%0A%0D%0Ahttps%3A%2F%2Fgithub.com%2Fdartsidedev%2Fgists%0D%0A%0D%0A)**
 * **[Star the repository 🤩](https://github.com/dartsidedev/gists/)**
-* **Follow me 🌝**
+* Follow me 🌝
   * Twitter [`@vincevargadev` 💙](https://twitter.com/intent/follow?screen_name=vincevargadev) 
   * GitHub [`@vincevargadev` 🤓](https://github.com/vincevargadev)
-* **[Check out my Flutter 101 Podcast 🎧](https://flutter101.dev)**
+* [Check out my Flutter 101 Podcast 🎧](https://flutter101.dev)
 
 ## Ideas
 
