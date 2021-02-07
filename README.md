@@ -25,9 +25,9 @@ All examples are without any external dependencies or packages, and they should 
 
 You can run the examples on your mobile phones if you have Flutter installed, just copy the code into your main.dart file after you created a Flutter project with `flutter create .`
 
-Unfortunately, DartPad doesn't work great on mobiles. The layouts will look the best on desktop in medium-sized windows.
+Unfortunately, DartPad doesn't work great on mobiles. The layouts will look the best on desktop in medium-sized windows. I also discovered a couple of bugs with DartPad, that breaks some of my gists that locally work perfectly.
 
-The gist hashes are used in this `README` so that we can refer back to the repository from the gists.
+The gist hashes are used in this `README` so that we can refer back to the repository from the gists easily, while changing gist titles and descriptions at any time.
 
 
 ## Gists
@@ -38,19 +38,7 @@ The gist hashes are used in this `README` so that we can refer back to the repos
 
 ##### Snack bar with different layouts
 
-Discover how the snack bar behaves with long text content and a long snack bar action.
+Discover how the snack bar behaves with long text content and a long snack bar action. TODO: description
 
 * [Gist](https://gist.github.com/vincevargadev/5e2a8558d496fecd518b7846ba5995b7)
 * [DartPad](https://nullsafety.dartpad.dev/5e2a8558d496fecd518b7846ba5995b7)
-
-
-
-## Ideas
-
-* SnackBar with all the customizations
-* Show SnackBars with Scaffold vs Scaffold Manager - The Differences
-* App Bar 3-dots icons for popup menu
-* Old school "Toast" message using the snack bar
-* Show snack bar after the material page popped off with a return value
-* text widget that expand in column (so that it's aligned correctly)
-* ltr-rtl differences
